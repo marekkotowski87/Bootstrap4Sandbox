@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "lib/bootstrap/css/bootstrap.min.css",
+    "inputFiles": [
+      "lib/bootstrap/css/bootstrap.css"
+    ]
+  }
+]
