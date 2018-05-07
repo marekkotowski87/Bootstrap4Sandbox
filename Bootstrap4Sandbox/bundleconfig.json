@@ -4,5 +4,11 @@
     "inputFiles": [
       "lib/bootstrap/css/bootstrap.css"
     ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/font-awesome/css/font-awesome.min.css",
+    "inputFiles": [
+      "wwwroot/lib/font-awesome/css/font-awesome.css"
+    ]
   }
 ]
