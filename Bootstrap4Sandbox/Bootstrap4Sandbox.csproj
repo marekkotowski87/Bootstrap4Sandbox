@@ -5,14 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\lib\bootstrap\css\bootstrap.css" />
-    <None Include="wwwroot\lib\bootstrap\css\bootstrap.css.map" />
-    <None Include="wwwroot\lib\bootstrap\css\bootstrap.min.css" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="jQuery" Version="3.2.1" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.0.2" />
+    <PackageReference Include="popper.js" Version="1.11.0" />
   </ItemGroup>
 
 </Project>
